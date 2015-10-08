@@ -12,8 +12,9 @@ Installation:
 
 Tested on SC8110.
 
-Bonus:  [_SendSMSWithSkyControl.sh_](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/alertscripts/SendSMSWithSkyControl.sh) - Command-line tool for sending SMS via Vutlan(SkyControl) device.
-Bonus:  [_DiscoverySNMPTrees.sh_](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/alertscripts/DiscoverySNMPTrees.sh) - Command-line tool for discovery various SNMP trees, composite its by SNMP Index and make LLD-JSON.
+Bonus:  
+- [_SendSMSWithSkyControl.sh_](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/alertscripts/SendSMSWithSkyControl.sh) - Command-line tool for sending SMS via Vutlan(SkyControl) device.
+- [_DiscoverySNMPTrees.sh_](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/alertscripts/DiscoverySNMPTrees.sh) - Command-line tool for discovery various SNMP trees, composite its by SNMP Index and make LLD-JSON.
 
 
 
