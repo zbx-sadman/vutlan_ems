@@ -7,7 +7,7 @@ Implemented:
 - LLD for GSM modems and control of account balance.
 
 Installation:
-- Be sure that bash v4 is installed;
+- Be sure that bash >v4 is used;
 - Place [externalscripts/DiscoverySensors.sh](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/master/externalscripts/DiscoverySensors.sh), [externalscripts/GSMModemGetBalance.sh.sh](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/master/externalscripts/GSMModemGetBalance.sh) to Zabbix's ExternalScript dir and make its executable;
 - See to Template's Macro tab and change default values if need or rewrite its on Host level.
 
