@@ -7,7 +7,7 @@ Implemented:
 - LLD for GSM modems and control of account balance;
 
 Note: see Template's Macro tab and change default values if need or rewrite its on Host level.
-Bonus:  [_UniFi Miner_](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/alertscripts/SendSMSWithSkyControl.sh) - Command-line tool for sending SMS via Vutlan(SkyControl) device.
+Bonus:  [_SendSMSWithSkyControl.sh_](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/alertscripts/SendSMSWithSkyControl.sh) - Command-line tool for sending SMS via Vutlan(SkyControl) device.
 
 
 Tested on SC8110.
