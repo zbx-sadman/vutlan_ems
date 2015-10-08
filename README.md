@@ -4,7 +4,7 @@ Implemented:
 - LLD and control state of door / dry contacts and iButton sensor;
 - LLD and control state of humidity / smoke / temperature / voltage / water leak sensors;
 - LLD and control state of relays / outlets;
-- LLD for GSM modems and control of account balance;
+- LLD for GSM modems and control of account balance.
 
 Installation:
 - Place [externalscripts/DiscoverySensors.sh](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/externalscripts/DiscoverySensors.sh), [externalscripts/GSMModemGetBalance.sh.sh](https://raw.githubusercontent.com/zbx-sadman/vutlan_ems/externalscripts/GSMModemGetBalance.sh) to Zabbix's ExternalScript dir and make its executable;
