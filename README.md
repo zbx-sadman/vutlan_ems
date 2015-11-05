@@ -1,4 +1,4 @@
-# Zabbix Template & external scripts for Vutlan(SkyControl) EMS 
+# Zabbix Template & external scripts for Vutlan(SkyControl) EMS / Zertico
 
 Implemented:
 - LLD and control state of door / dry contacts and iButton sensor;
